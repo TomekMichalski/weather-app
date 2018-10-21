@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "5aadcf80a79236ae538b",
@@ -20,24 +20,24 @@ self.__precacheManifest = [
     "url": "/TomekMichalski/weather-app/static/js/runtime~main.24a57120.js"
   },
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "fa2772327f55d8198301fdb8bcfc8158",
+    "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
     "revision": "5aadcf80a79236ae538b",
     "url": "/TomekMichalski/weather-app/static/js/main.5aadcf80.chunk.js"
   },
   {
-    "revision": "fa2772327f55d8198301fdb8bcfc8158",
-    "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "revision": "89889688147bd7575d6327160d64e760",
+    "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
     "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "89889688147bd7575d6327160d64e760",
-    "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.89889688.svg"
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/TomekMichalski/weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "8c4cfbc64b3b92851d43",
